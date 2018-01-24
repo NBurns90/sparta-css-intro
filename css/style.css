@@ -1,0 +1,42 @@
+h1 {
+  font-size: 50px;
+  font-weight: bolder;
+  color: red;
+}
+
+h1 .header-span {
+  color: green;
+}
+
+.long-text {
+  font-family: sans-serif;
+}
+
+.long-text .inner-text {
+  font-weight: lighter;
+  letter-spacing: 5px;
+}
+
+.long-text .inner-text .inner-inner-text {
+  font-stretch: expanded;
+  font-size: 40px;
+}
+
+#bottom-heading {
+  text-decoration: line-through;
+  font-size: 25px;
+}
+
+p {
+  text-transform: uppercase;
+}
+
+img.left-image {
+  margin-right: 50px;
+}
+
+img.right-image {
+  margin-right: 20px;
+  border-top: 6px dashed green;
+  border-bottom: 60px double purple;
+}
